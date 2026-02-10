@@ -16,6 +16,7 @@ A lightweight Python automation tool built with openpyxl that processes Excel sp
 Before running the script, ensure you have Python installed along with the openpyxl library.
 
 ```Bash
+   git clone https://github.com/mohammadfawazgoat/python-excel-automation-tool
    cd project
    pip install openpyxl
    python app.py
